@@ -1,1 +1,1 @@
-from .patent_downloader import PatentDownloader
+from patent_downloader import PatentDownloader
